@@ -33,6 +33,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.4 arraylist()", "4.4 arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.5 dodawanie macierzy", "4.5 dodawanie macierzy\4.5 dodawanie macierzy.csproj", "{1A0E0D4F-C094-461E-861F-86ED33623E71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.1 metoda lenght na łańcuchach tekstowych", "5.1 metoda lenght na łańcuchach tekstowych\5.1 metoda lenght na łańcuchach tekstowych.csproj", "{3657EAC6-E91E-4761-A8A5-62836E3BB1CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2 konkatenacja", "5.2 konkatenacja\5.2 konkatenacja.csproj", "{ECDA1DF4-CF08-417E-A96A-74A02D750DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3 operacje na plikach", "5.3 operacje na plikach\5.3 operacje na plikach.csproj", "{404EA5A1-DF2C-4BD4-A504-C4441BE63208}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +105,18 @@ Global
 		{1A0E0D4F-C094-461E-861F-86ED33623E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A0E0D4F-C094-461E-861F-86ED33623E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A0E0D4F-C094-461E-861F-86ED33623E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3657EAC6-E91E-4761-A8A5-62836E3BB1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3657EAC6-E91E-4761-A8A5-62836E3BB1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3657EAC6-E91E-4761-A8A5-62836E3BB1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3657EAC6-E91E-4761-A8A5-62836E3BB1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDA1DF4-CF08-417E-A96A-74A02D750DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDA1DF4-CF08-417E-A96A-74A02D750DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDA1DF4-CF08-417E-A96A-74A02D750DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDA1DF4-CF08-417E-A96A-74A02D750DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404EA5A1-DF2C-4BD4-A504-C4441BE63208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404EA5A1-DF2C-4BD4-A504-C4441BE63208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404EA5A1-DF2C-4BD4-A504-C4441BE63208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404EA5A1-DF2C-4BD4-A504-C4441BE63208}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
