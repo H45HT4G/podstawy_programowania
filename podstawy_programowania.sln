@@ -23,6 +23,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4 pętla foreach", "3.4 p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.5 liczba Pi", "3.5 liczba Pi\3.5 liczba Pi.csproj", "{C197923B-E6F2-4F07-8F7B-AD6F05D4FEB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1 tablica jednowymiarowa", "4.1 tablica jednowymiarowa\4.1 tablica jednowymiarowa.csproj", "{5C9A7DED-C4EC-4A6A-800A-1C069CC34FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2 tablica wielowymiarowa", "4.2 tablica wielowymiarowa\4.2 tablica wielowymiarowa.csproj", "{55D7C4DB-0F2D-44FC-8C38-637B6CFC29A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.3 przełączanie się pomiędzy elementami kolekcji", "4.3 przełączanie się pomiędzy elementami kolekcji\4.3 przełączanie się pomiędzy elementami kolekcji.csproj", "{95B05745-0F24-481A-9941-80A86BC29AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.4 arraylist()", "4.4 arraylist()\4.4 arraylist().csproj", "{51ACB704-EC1F-4041-A295-F613C767A428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.5 dodawanie macierzy", "4.5 dodawanie macierzy\4.5 dodawanie macierzy.csproj", "{1A0E0D4F-C094-461E-861F-86ED33623E71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +79,26 @@ Global
 		{C197923B-E6F2-4F07-8F7B-AD6F05D4FEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C197923B-E6F2-4F07-8F7B-AD6F05D4FEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C197923B-E6F2-4F07-8F7B-AD6F05D4FEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9A7DED-C4EC-4A6A-800A-1C069CC34FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9A7DED-C4EC-4A6A-800A-1C069CC34FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9A7DED-C4EC-4A6A-800A-1C069CC34FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9A7DED-C4EC-4A6A-800A-1C069CC34FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D7C4DB-0F2D-44FC-8C38-637B6CFC29A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D7C4DB-0F2D-44FC-8C38-637B6CFC29A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D7C4DB-0F2D-44FC-8C38-637B6CFC29A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D7C4DB-0F2D-44FC-8C38-637B6CFC29A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B05745-0F24-481A-9941-80A86BC29AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B05745-0F24-481A-9941-80A86BC29AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B05745-0F24-481A-9941-80A86BC29AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B05745-0F24-481A-9941-80A86BC29AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51ACB704-EC1F-4041-A295-F613C767A428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ACB704-EC1F-4041-A295-F613C767A428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51ACB704-EC1F-4041-A295-F613C767A428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51ACB704-EC1F-4041-A295-F613C767A428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0E0D4F-C094-461E-861F-86ED33623E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0E0D4F-C094-461E-861F-86ED33623E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0E0D4F-C094-461E-861F-86ED33623E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0E0D4F-C094-461E-861F-86ED33623E71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
