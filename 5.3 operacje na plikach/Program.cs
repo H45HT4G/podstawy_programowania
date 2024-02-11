@@ -4,26 +4,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine($"LOKALIZACJA PLIKU 'library.txt': {Directory.GetCurrentDirectory()}\n");
+        string filePath = "library.txt";
+
         Console.WriteLine("Podaj tytuł książki: ");
-        string bookTitle = $"Tytuł książki: {Console.ReadLine()}";
+        var bookTitle = $"Tytuł książki: {Console.ReadLine()}";
         Console.WriteLine("Podaj autora książki: ");
-        string bookAuthor = $"Autor książki: {Console.ReadLine()}";
+        var bookAuthor = $"Autor książki: { Console.ReadLine()}";
 
-        string[] lines = { bookTitle, bookAuthor };
+        File.WriteAllText(filePath, $"{bookTitle}\n{bookAuthor}");
 
-        using (StreamWriter outputFile = new StreamWriter(Path.Combine(Directory.GetCurrentDirectory(), "library.txt")))
+        var readFile = File.ReadAllLines(filePath);
+
+        for (int i = 0; i < readFile.Length; i++)
         {
-            foreach (string line in lines)
-            {
-                outputFile.WriteLine(line);
-            }
-        }
-
-        using (var sr = new StreamReader("library.txt"))
-        {
-            Console.WriteLine();
-            Console.WriteLine(sr.ReadToEnd());
+            Console.WriteLine($"{readFile[i]}");
         }
     }
 }

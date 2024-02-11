@@ -17,27 +17,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.1 pętla for", "3.1 pętl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.2 pętla while", "3.2 pętla while\3.2 pętla while.csproj", "{CAC0A8A5-136C-49EE-803D-29820694683B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3 pętla do while", "3.3 pętla do while\3.3 pętla do while.csproj", "{5E63EC0E-E976-42CB-A8C8-949B6BD70467}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.3 pętla do while", "3.3 pętla do while\3.3 pętla do while.csproj", "{5E63EC0E-E976-42CB-A8C8-949B6BD70467}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4 pętla foreach", "3.4 pętla foreach\3.4 pętla foreach.csproj", "{7B671937-F7E4-456F-9470-BAD0C0CE8B95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.4 pętla foreach", "3.4 pętla foreach\3.4 pętla foreach.csproj", "{7B671937-F7E4-456F-9470-BAD0C0CE8B95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.5 liczba Pi", "3.5 liczba Pi\3.5 liczba Pi.csproj", "{C197923B-E6F2-4F07-8F7B-AD6F05D4FEB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.5 liczba Pi", "3.5 liczba Pi\3.5 liczba Pi.csproj", "{C197923B-E6F2-4F07-8F7B-AD6F05D4FEB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1 tablica jednowymiarowa", "4.1 tablica jednowymiarowa\4.1 tablica jednowymiarowa.csproj", "{5C9A7DED-C4EC-4A6A-800A-1C069CC34FB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.1 tablica jednowymiarowa", "4.1 tablica jednowymiarowa\4.1 tablica jednowymiarowa.csproj", "{5C9A7DED-C4EC-4A6A-800A-1C069CC34FB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2 tablica wielowymiarowa", "4.2 tablica wielowymiarowa\4.2 tablica wielowymiarowa.csproj", "{55D7C4DB-0F2D-44FC-8C38-637B6CFC29A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.2 tablica wielowymiarowa", "4.2 tablica wielowymiarowa\4.2 tablica wielowymiarowa.csproj", "{55D7C4DB-0F2D-44FC-8C38-637B6CFC29A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.3 przełączanie się pomiędzy elementami kolekcji", "4.3 przełączanie się pomiędzy elementami kolekcji\4.3 przełączanie się pomiędzy elementami kolekcji.csproj", "{95B05745-0F24-481A-9941-80A86BC29AB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.3 przełączanie się pomiędzy elementami kolekcji", "4.3 przełączanie się pomiędzy elementami kolekcji\4.3 przełączanie się pomiędzy elementami kolekcji.csproj", "{95B05745-0F24-481A-9941-80A86BC29AB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.4 arraylist()", "4.4 arraylist()\4.4 arraylist().csproj", "{51ACB704-EC1F-4041-A295-F613C767A428}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.4 arraylist()", "4.4 arraylist()\4.4 arraylist().csproj", "{51ACB704-EC1F-4041-A295-F613C767A428}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.5 dodawanie macierzy", "4.5 dodawanie macierzy\4.5 dodawanie macierzy.csproj", "{1A0E0D4F-C094-461E-861F-86ED33623E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.5 dodawanie macierzy", "4.5 dodawanie macierzy\4.5 dodawanie macierzy.csproj", "{1A0E0D4F-C094-461E-861F-86ED33623E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.1 metoda lenght na łańcuchach tekstowych", "5.1 metoda lenght na łańcuchach tekstowych\5.1 metoda lenght na łańcuchach tekstowych.csproj", "{3657EAC6-E91E-4761-A8A5-62836E3BB1CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.1 metoda lenght na łańcuchach tekstowych", "5.1 metoda lenght na łańcuchach tekstowych\5.1 metoda lenght na łańcuchach tekstowych.csproj", "{3657EAC6-E91E-4761-A8A5-62836E3BB1CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2 konkatenacja", "5.2 konkatenacja\5.2 konkatenacja.csproj", "{ECDA1DF4-CF08-417E-A96A-74A02D750DD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.2 konkatenacja", "5.2 konkatenacja\5.2 konkatenacja.csproj", "{ECDA1DF4-CF08-417E-A96A-74A02D750DD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3 operacje na plikach", "5.3 operacje na plikach\5.3 operacje na plikach.csproj", "{404EA5A1-DF2C-4BD4-A504-C4441BE63208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.3 operacje na plikach", "5.3 operacje na plikach\5.3 operacje na plikach.csproj", "{404EA5A1-DF2C-4BD4-A504-C4441BE63208}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.4 poruszanie się po pliku", "5.4 poruszanie się po pliku\5.4 poruszanie się po pliku.csproj", "{5AFFB82E-E8CB-49C9-A533-FA0AB30B1C51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.5 obsługa wyjątków", "5.5 obsługa wyjątków\5.5 obsługa wyjątków.csproj", "{3497870C-C176-4CC0-8E8D-B7BF85138D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.6 ciąg fibbonaciego", "5.6 ciąg fibbonaciego\5.6 ciąg fibbonaciego.csproj", "{B34D2C62-F820-4EB3-98CB-F101CD5763CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +123,18 @@ Global
 		{404EA5A1-DF2C-4BD4-A504-C4441BE63208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{404EA5A1-DF2C-4BD4-A504-C4441BE63208}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{404EA5A1-DF2C-4BD4-A504-C4441BE63208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFFB82E-E8CB-49C9-A533-FA0AB30B1C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFFB82E-E8CB-49C9-A533-FA0AB30B1C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFFB82E-E8CB-49C9-A533-FA0AB30B1C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFFB82E-E8CB-49C9-A533-FA0AB30B1C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3497870C-C176-4CC0-8E8D-B7BF85138D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3497870C-C176-4CC0-8E8D-B7BF85138D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3497870C-C176-4CC0-8E8D-B7BF85138D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3497870C-C176-4CC0-8E8D-B7BF85138D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34D2C62-F820-4EB3-98CB-F101CD5763CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34D2C62-F820-4EB3-98CB-F101CD5763CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34D2C62-F820-4EB3-98CB-F101CD5763CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34D2C62-F820-4EB3-98CB-F101CD5763CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
